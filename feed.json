@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Narravista",
+    "description": "",
+    "home_page_url": "https://moreiramarcia1.github.io/narravista",
+    "feed_url": "https://moreiramarcia1.github.io/narravista/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marcia Freddi"
+    },
+    "items": [
+    ]
+}
